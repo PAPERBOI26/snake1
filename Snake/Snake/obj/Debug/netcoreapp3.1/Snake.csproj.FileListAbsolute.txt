@@ -1,0 +1,13 @@
+C:\Веселый\Документы\ПРОГРАММИРОВАНИЕ\ООП\SNAKE\Snake\Snake\bin\Debug\netcoreapp3.1\Snake.exe
+C:\Веселый\Документы\ПРОГРАММИРОВАНИЕ\ООП\SNAKE\Snake\Snake\bin\Debug\netcoreapp3.1\Snake.deps.json
+C:\Веселый\Документы\ПРОГРАММИРОВАНИЕ\ООП\SNAKE\Snake\Snake\bin\Debug\netcoreapp3.1\Snake.runtimeconfig.json
+C:\Веселый\Документы\ПРОГРАММИРОВАНИЕ\ООП\SNAKE\Snake\Snake\bin\Debug\netcoreapp3.1\Snake.runtimeconfig.dev.json
+C:\Веселый\Документы\ПРОГРАММИРОВАНИЕ\ООП\SNAKE\Snake\Snake\bin\Debug\netcoreapp3.1\Snake.dll
+C:\Веселый\Документы\ПРОГРАММИРОВАНИЕ\ООП\SNAKE\Snake\Snake\bin\Debug\netcoreapp3.1\Snake.pdb
+C:\Веселый\Документы\ПРОГРАММИРОВАНИЕ\ООП\SNAKE\Snake\Snake\obj\Debug\netcoreapp3.1\Snake.csprojAssemblyReference.cache
+C:\Веселый\Документы\ПРОГРАММИРОВАНИЕ\ООП\SNAKE\Snake\Snake\obj\Debug\netcoreapp3.1\Snake.csproj.CoreCompileInputs.cache
+C:\Веселый\Документы\ПРОГРАММИРОВАНИЕ\ООП\SNAKE\Snake\Snake\obj\Debug\netcoreapp3.1\Snake.AssemblyInfoInputs.cache
+C:\Веселый\Документы\ПРОГРАММИРОВАНИЕ\ООП\SNAKE\Snake\Snake\obj\Debug\netcoreapp3.1\Snake.AssemblyInfo.cs
+C:\Веселый\Документы\ПРОГРАММИРОВАНИЕ\ООП\SNAKE\Snake\Snake\obj\Debug\netcoreapp3.1\Snake.dll
+C:\Веселый\Документы\ПРОГРАММИРОВАНИЕ\ООП\SNAKE\Snake\Snake\obj\Debug\netcoreapp3.1\Snake.pdb
+C:\Веселый\Документы\ПРОГРАММИРОВАНИЕ\ООП\SNAKE\Snake\Snake\obj\Debug\netcoreapp3.1\Snake.genruntimeconfig.cache
